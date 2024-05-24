@@ -1,3 +1,4 @@
+![ogo](https://github.com/KrishJaviya/KrishJaviya/blob/main/github.jpg)
 <h1 align="center">Hi 👋, I'm Krish Javiya</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
